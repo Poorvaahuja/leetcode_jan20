@@ -21,3 +21,10 @@ i != j
 Notice that |val| denotes the absolute value of val.
 
 <img width="443" alt="image" src="https://github.com/Poorvaahuja/leetcode_jan20/assets/122693422/31022442-c7da-423c-8f29-6c19eda178a8">
+
+## Q4 flatten binary tree to linkedlist
+Given the root of a binary tree, flatten the tree into a "linked list":
+The "linked list" should use the same TreeNode class where the right child pointer points to the next node in the list and the left child pointer is always null.
+The "linked list" should be in the same order as a pre-order traversal of the binary tree.
+
+<img width="402" alt="image" src="https://github.com/Poorvaahuja/leetcode_jan20/assets/122693422/02892495-1e55-4690-8f66-9ae06f7ac09f">
